@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for contributing to TruGate documentation.
+Thank you for contributing to Trugate documentation.
 
 ## Writing principles
 
@@ -16,7 +16,7 @@ Thank you for contributing to TruGate documentation.
 - Use Markdown tables sparingly.
 - Use Mermaid diagrams for core flows.
 - Include request and response examples for API pages.
-- Keep examples realistic and consistent with TruGate terminology.
+- Keep examples realistic and consistent with Trugate terminology.
 
 ## Pull requests
 

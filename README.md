@@ -31,7 +31,7 @@ This object can be used by:
 
 ## Trugate Products
 
-- Trugate e-Invoice
+- Trugate Invoice
 - Trugate Business Passport
 - Trugate Trade Ready
 - Trugate Finance Enablement
