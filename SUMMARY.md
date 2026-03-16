@@ -12,7 +12,7 @@
 ## Trugate Invoice
 * [Overview](invoice/overview.md)
 * [How It Works](invoice/how-it-work.md)
-* [Invoice Lifecycle](invoice/invoice-lifecycle.md)
+* [Invoice Lifecycle](invoice/lifecycle.md)
 * [Compliance](invoice/compliance.md)
 * [Dashboard](invoice/dashboard.md)
 * [Glossary](invoice/glossary.md)
