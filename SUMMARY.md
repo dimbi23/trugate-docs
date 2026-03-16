@@ -3,7 +3,7 @@
 * [Trugate Documentation](README.md)
 
 ## Overview
-* [What is Trugate](overview/what-is-Trugate.md)
+* [What is Trugate](overview/what-is-trugate.md)
 * [Digital Trade Model](overview/digital-trade-model.md)
 * [Golden Triangle](overview/golden-triangle.md)
 * [Platform Architecture](overview/platform-architecture.md)
