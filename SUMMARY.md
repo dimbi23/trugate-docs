@@ -9,13 +9,13 @@
 * [Platform Architecture](overview/platform-architecture.md)
 * [Product Stack](overview/product-stack.md)
 
-## Trugate e-Invoice
-* [Overview](einvoice/overview.md)
-* [How It Works](einvoice/how-it-works.md)
-* [Invoice Lifecycle](einvoice/invoice-lifecycle.md)
-* [Compliance](einvoice/compliance.md)
-* [Dashboard](einvoice/dashboard.md)
-* [Glossary](einvoice/glossary.md)
+## Trugate Invoice
+* [Overview](invoice/overview.md)
+* [How It Works](invoice/how-it-work.md)
+* [Invoice Lifecycle](invoice/invoice-lifecycle.md)
+* [Compliance](invoice/compliance.md)
+* [Dashboard](invoice/dashboard.md)
+* [Glossary](invoice/glossary.md)
 
 ## Developers
 * [Overview](developers/overview.md)
